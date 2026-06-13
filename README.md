@@ -96,8 +96,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph.svg">
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
   </picture>
-  <br><br>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=linnn02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF" alt="GitHub stats" />
 
   <br><br>
 
@@ -112,10 +110,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=linnn02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF" alt="GitHub activity graph" />
 
 </div>
-
-<br>
-
-<hr>
 
 <br>
 
