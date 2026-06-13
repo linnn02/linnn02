@@ -4,13 +4,9 @@
   <img src="https://raw.githubusercontent.com/linnn02/linnn02/main/IMG_5925.gif" width="100%" alt="Adelina banner" />
 </div>
 
-  <br><br>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;UI%2FUX+Designer;Frontend+%2B+Backend+%2B+AI;Coding+under+the+moonlight+%E2%98%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;UI%2FUX+Designer;Frontend+%2B+Backend+%2B+AI+%E2%98%BE" alt="Typing SVG" />
   </a>
-
-  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=linnn02&label=profile%20views&color=9d4edd&style=for-the-badge" alt="Profile views" />
 
@@ -95,7 +91,12 @@
 <h2 align="left">☁ Profile activity</h2>
 
 <div align="center">
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
+  </picture>
+  <br><br>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=linnn02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF" alt="GitHub stats" />
 
   <br><br>
@@ -115,18 +116,6 @@
 <br>
 
 <hr>
-
-<h2 align="left">👾 Galaga contribution graph</h2>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
-  </picture>
-
-</div>
 
 <br>
 
