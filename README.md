@@ -137,6 +137,6 @@
 
   <h3>☼ moonlit code, soft pixels & purple nights ☾</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:5A189A,100:0B0014&height=120&section=footer" />
+  <img src="./4DA859DE-F51C-4788-8BB6-0DBE8913B520.jpeg" width="100%" alt="purple night footer" />
 
 </div>
