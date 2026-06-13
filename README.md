@@ -114,12 +114,12 @@
 <br>
 
 <hr>
-<br>
+
 
 <h2 align="left">✧ Contact me</h2>
 
 <div align="center">
-
+<br>
   <a href="mailto:del1nz@mail.ru">
     <img src="https://img.shields.io/badge/Email-del1nz@mail.ru-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
