@@ -114,6 +114,7 @@
 <br>
 
 <hr>
+<br>
 
 <h2 align="left">✧ Contact me</h2>
 
