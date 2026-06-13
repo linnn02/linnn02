@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,50:5A189A,100:9D4EDD&height=220&section=header&text=Adelina%20%7C%20del1nz&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=fullstack%20developer%20%2F%20UI%2FUX%20designer%20%E2%98%BE&descAlignY=55&descSize=16" />
-
-  <br><br>
-
-  <img src="https://github.com/linnn02.png" width="150" alt="Adelina avatar" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/linnn02/linnn02/main/IMG_5925.gif" width="100%" alt="Adelina banner" />
+</div>
 
   <br><br>
 
