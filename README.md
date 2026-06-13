@@ -135,7 +135,7 @@
 
 <div align="center">
 
-  <h3>☼ moonlit code, soft pixels & purple nights ☾</h3>
+  <h3>☼ code, design & late-night ideas ☾</h3>
 
   <img src="./4DA859DE-F51C-4788-8BB6-0DBE8913B520.jpeg" width="100%" alt="purple night footer" />
 
