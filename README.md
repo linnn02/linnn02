@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/TypeScript-5A189A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 
-  <br><br>
+  <br>
 
   <h3>Backend</h3>
 
@@ -58,14 +58,14 @@
   <img src="https://img.shields.io/badge/Express-7B2CBF?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-  <br><br>
+  <br>
 
   <h3>Mobile</h3>
 
   <img src="https://img.shields.io/badge/Flutter-9D4EDD?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-9D4EDD?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
-  <br><br>
+  <br>
 
   <h3>Databases</h3>
 
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-C77DFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Firebase-C77DFF?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 
-  <br><br>
+  <br>
 
   <h3>Tools & Design</h3>
 
@@ -97,15 +97,15 @@
     <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/linnn02/linnn02/output/galaga-contribution-graph-dark.svg">
   </picture>
 
-  <br><br>
+  <br>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnn02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=FFFFFF" alt="Top languages" />
 
-  <br><br>
+  <br>
 
   <img src="https://streak-stats.demolab.com?user=linnn02&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD&currStreakLabel=C77DFF" alt="GitHub streak" />
 
-  <br><br>
+  <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=linnn02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF" alt="GitHub activity graph" />
 
